@@ -29,7 +29,7 @@ As part of on-boarding, David needs a secure password to log in.
 **Command:**
 sudo passwd david {This command prompts you to enter and confirm the password}
 
-![[Pasted image 20250924173116.png]]
+![Image 3](<Pasted image 20250924173116.png>)
 
 ---
 
@@ -67,7 +67,7 @@ sudo deluser david sudo {This ensures he no longer has elevated priviledges}
 **Verification Command:**
 groups david
 
-![[Pasted image 20250924174504.png]]
+![Image 5](<Pasted image 20250924174504.png>)
 
 ---
 ## **5. Deleting David’s Account**
@@ -80,7 +80,7 @@ Finally, HR confirms David’s exit. To maintain security hygiene, you delete hi
 **Command:**
 sudo deluser --remove-home david {`--remove-home` deletes his home directory}
 
-![[Pasted image 20250924174959.png]]
+![Image 4](<Pasted image 20250924174959.png>)
 
 ---
 ### **Conclusion**
