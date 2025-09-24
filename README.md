@@ -14,7 +14,7 @@ sudo adduser david
 - `sudo` ensures you’re running with administrative rights.
 
 
-![Image 1](Pasted image 20250924172608.png)
+![Image 1](<Pasted image 20250924172608.png>)
 
 
 ---
@@ -50,7 +50,7 @@ sudo usermod -aG sudo david
 **Verification Command:**
 groups david
 
-![[Pasted image 20250924173747.png]]
+![Image 2](<Pasted image 20250924173747.png>)
 
 ---
 
