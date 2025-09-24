@@ -14,7 +14,7 @@ sudo adduser david
 - `sudo` ensures you’re running with administrative rights.
 
 
-![[Pasted image 20250924172608.png]]
+![Image 1](Pasted image 20250924172608.png)
 
 
 ---
